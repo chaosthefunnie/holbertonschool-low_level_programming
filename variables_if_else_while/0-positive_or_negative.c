@@ -4,7 +4,8 @@
 
 /* main - prints random numbers
  * asd
- * fg */
+ * fg
+ * qqqqa */
 
 
 int main(void)
