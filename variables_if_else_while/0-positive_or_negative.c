@@ -2,7 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 
-/* more headers goes there */
+/* main - prints random numbers
+ * asd
+ * fg */
 
 
 int main(void)
