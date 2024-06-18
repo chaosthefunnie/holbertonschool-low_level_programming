@@ -2,10 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/* main - prints random numbers
- * asd
- * fg
- * qqqqa */
+/* main - 0-positive_or_negative.c */
 
 
 int main(void)
