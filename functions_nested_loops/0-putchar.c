@@ -1,7 +1,21 @@
 #include <unistd.h>
 
-int main() {
-    char *message = "_putchar\n";
-    write(1, message, 9); // Using write to output the message to stdout
-    return 0;
+/**
+ * main - Prints "_putchar" followed by a new line.
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+	_putchar('_')
+	_putchar('p')
+	_putchar('u')
+	_putchar('t')
+	_putchar('c')
+	_putchar('h')
+	_putchar('a')
+	_putchar('r')
+	_putchar('\n')
+
+	return (0);
 }
