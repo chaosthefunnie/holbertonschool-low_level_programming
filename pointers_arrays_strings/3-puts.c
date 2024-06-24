@@ -1,15 +1,14 @@
 #include "main.h"
 #include <stdio.h>
 
-/*
- * _puts - print smth
- *
- * Return: Always 0.
+/**
+ * _puts - Prints a string to stdout.
+ * @str: The string to be printed.
  */
 void _puts(char *str)
 {
 	while (*str)
-		_putschar(*str++);
+		_putchar(*str++);
 
-		_putschar('/n');
-	}
+	_putchar('\n');
+}
