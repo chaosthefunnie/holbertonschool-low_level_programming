@@ -5,11 +5,11 @@
  * _strlen - returns to string.
  * @str: the string of length.
  *
- * Return: the lenghth of @str.
+ * Return: the length of @str.
  */
 int _strlen(char *str)
 {
-	size_t lenght = 0;
+	size_t length = 0;
 
 	while (*str++)
 		length++;
